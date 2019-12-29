@@ -5,7 +5,7 @@ For the workshop we're mostly interested in:
 
 * 902.3 - 914.9 MHz for LoRa
 * 2412 - 2462 MHz for WiFi and bluetooth
-* 2500 - 2700 MHz for channel B41 used by Spring for 4G LTE
+* 2500 - 2700 MHz for channel B41 used by Sprint for 4G LTE
 
 Our antenna analyzer can't measure above 2700 MHz, but we can do some cruder measurements for:
 

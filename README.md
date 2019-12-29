@@ -29,8 +29,7 @@ A secondary goal is to test the viability of this method of rapid PCB antenna pr
 
 ## Who will it benefit?
 
-This will benefit anyone local to the SF Bay Area interested in how wireless sig
-nals and antennas work. Based on attendence at previous events we expect a wide 
+This will benefit anyone local to the SF Bay Area interested in how wireless signals and antennas work. Based on attendence at previous events we expect a wide 
 range of experience levels from young kids to licensed HAM radio operators. 
 
 We'll document this effort on our wiki and blog to make it easy for others to set up a similar antenna workshop, and we'll share our successes and failures so others can improve upon the experience. We expect that this method of prototyping antennas is relatively unknown and may also be of use to more seasoned eletronics engineers. We hope to provide actual numbers on the deviation between "copper tape on plain FR4" and the same design manufactured by a PCB manufacturing facility.
